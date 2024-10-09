@@ -26,7 +26,13 @@ Currently studying M. Sc. Machine Learning and Data Analytics\
 ![](https://img.shields.io/badge/-.NET-purple?logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/-Anaconda-brightgreen?logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/-Node--RED-maroon?logo=node-red&logoColor=white)
-
-
+\
+\
+**Databases**\
+![](https://img.shields.io/badge/-MSSQL-maroon?logo=node-red&logoColor=white)
+![](https://img.shields.io/badge/-mongodb-maroon?logo=node-red&logoColor=white)
+![](https://img.shields.io/badge/-neo4j-maroon?logo=node-red&logoColor=white)
+\
+\
 **Engines**\
 ![](https://img.shields.io/badge/-Unity-black?logo=unity&logoColor=white)
