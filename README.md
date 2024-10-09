@@ -29,9 +29,9 @@ Currently studying M. Sc. Machine Learning and Data Analytics\
 \
 \
 **Databases**\
-![](https://img.shields.io/badge/-MSSQL-maroon?logo=node-red&logoColor=white)
-![](https://img.shields.io/badge/-mongodb-maroon?logo=node-red&logoColor=white)
-![](https://img.shields.io/badge/-neo4j-maroon?logo=node-red&logoColor=white)
+![](https://img.shields.io/badge/-MSSQL-maroon?logo=mssql&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-maroon?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-neo4j-maroon?logo=neo4j&logoColor=white)
 \
 \
 **Engines**\
