@@ -25,7 +25,6 @@ Currently studying M. Sc. Machine Learning and Data Analytics\
 **Frameworks**\
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 ![](https://img.shields.io/badge/-.NET-purple?logo=.net&logoColor=white)
-![](https://img.shields.io/badge/-Anaconda-brightgreen?logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/-Node--RED-maroon?logo=node-red&logoColor=white)
 \
 \
