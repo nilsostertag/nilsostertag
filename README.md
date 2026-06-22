@@ -2,8 +2,8 @@
 ----
 \
 **Education**\
+M. Sc. Machine Learning and Data Analytics\
 B. Eng. Internet of Things\
-Currently studying M. Sc. Machine Learning and Data Analytics\
 \
 **Languages**\
 ![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
